@@ -13,6 +13,7 @@ proguard-project.txt
 build.xml
 cache.properties
 .gradle
+*.hprof
 
 # User-specific configurations
 .idea
